@@ -1,0 +1,187 @@
+nav.inline-block{
+    background-color:silver; display:inline-block;
+    width:100%; 
+    height:50px;
+    clear:both; 
+    }
+    .navigation-ul{ 
+    padding-inline-start: 0px; 
+    padding-left:-15px;
+    padding-top:5px;
+    }
+    .inline-block ul li{
+    display:inline-block;
+    padding-right:50px;
+    padding-bottom:15px; 
+    
+    }
+    
+    .logo{ 
+    padding:0px 13px;
+    float:left;
+    width:50px; 
+    height:50px; 
+    }
+
+    .linkedinicon{ 
+        padding:1%;
+        display:inline-block; 
+    }
+    
+    li{
+    font-family:sans-serif; 
+    font-weight:bold;
+        }
+    .margarethudakdesigns{ 
+        font-size:16px; 
+        color:white;
+        margin-top:7px;
+        margin-left:25px;
+        
+    }
+    .contact{ 
+    float:right; 
+    font-size:22px;
+    color:white; 
+    
+    }
+    .mywork{
+    float:right; 
+    font-size:22px; 
+    color:white; 
+    }
+    .skills{ 
+    float:right; 
+    font-size:22px; 
+    color:white; 
+    
+    }
+    .about{ 
+    float:right; 
+    font-size:22px; 
+    color:white; 
+    }
+    .heroimage2{ 
+    height:490px;
+    padding:0px 15px;
+    padding-top:22px;
+    }
+    .container-fluid{
+    margin:0;
+    }
+
+    .content{
+    width:500px; 
+    /* margin:0;  auto;  */
+    }
+    
+    .content1{ 
+    margin-top:50px; 
+    }
+
+    .h1text{ 
+    font-size:30px; 
+    padding-left: 25px;
+    /* padding-top:-50px; */
+    }
+
+    .pintro{ 
+    font-size:25px;
+    padding-left:25px;
+    }
+    .buttonmywork{ 
+        display:block;
+        margin:0 auto;
+        padding:10px 20px;
+        text-align:center; 
+    }
+    .heroimage2{
+        margin-top:-125px;
+        float:right;
+    }
+    .border1{ 
+        margin-top:140px;
+        padding:25px;
+    }
+
+.wandrimage{ 
+    width:500;
+    padding:25px;
+}
+
+.webpagedhsimage{
+    width:500px;
+    padding:25px;
+    
+}
+
+.unicefimage{ 
+    width:500;
+    padding:25px;
+    
+}
+
+.myuxSkills{
+text-align:center;
+padding-top:70px;
+padding-left:288.6px;
+padding-bottom:-50px;
+font-size: 33px;
+
+}
+.myWork{
+    text-align:center;
+    padding-top:25px;
+    font-size:35px;
+}
+.cardContainer{ 
+    display:inline-block;
+    width:-511px;
+    float:left; 
+    padding-top:5px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    align-items:center;
+    justify-content:center;
+   margin-right:-3px
+}
+
+.card{ 
+    display:inline-block; 
+    align-items:center;
+}
+
+.row{
+    display:inline-block;
+    justify-cintent:center;
+    margin-left:10px;
+    width:fit-content;
+    align-items:center;
+
+}
+.learnmore{ 
+    display:block;
+    width:400px;
+    margin:0 auto;
+    padding: 10px 20px; 
+    text-align:center;
+
+}
+.card-title{
+margin:0 auto; 
+text-align:center;
+}
+
+.card-text{
+    font-size:20px;
+}
+.card-img-top{
+    width:288px;
+    height:230px;
+}
+
+    <div class=".flexContainer">
+    <div>1</div> 
+    <div>2</div> 
+    <div>3</div> 
+</div> 
